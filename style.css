@@ -31,17 +31,34 @@
     font-size: 20px;
     border: 5px;
 } */
- div{
+ /* div{
     padding: 20PX;
     border: 3px solid black;
     margin: 2px;
     height: 100px;
     width: 1000px;
  }
- h1{
-    text-align: center;
+ h1{ */
+    /* text-align: center;
     color: blueviolet;
  }
  p{
     color: red;
- }
+ } */
+   /* div{
+    padding: 20PX;
+    border: 3px solid black;
+    margin: 2px;
+    height: 150px;
+    width: 600px;} */
+    /* h1{
+        color: blue;
+    }
+    p{
+        background-color: aquamarine;
+    } */ div{
+    padding: 20PX;
+    border: 3px solid black;
+    margin: 2px;
+    height: 150px;
+    width: 600px;}
