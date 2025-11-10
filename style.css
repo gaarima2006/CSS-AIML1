@@ -59,6 +59,10 @@
     } */ div{
     padding: 20PX;
     border: 3px solid black;
+    background-color: pink;
     margin: 2px;
-    height: 150px;
-    width: 600px;}
+    height: 1000px;
+    width: 1000px;}
+    h5{
+        background-color: aquamarine;
+    }
