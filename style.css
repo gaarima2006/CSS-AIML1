@@ -68,7 +68,7 @@
     } */
 
     
-        .container {
+        /* .container {
             border: 2px solid #888;
             padding: 24px;
             max-width: 800px;
@@ -109,4 +109,36 @@
             font-size: 1.1em;
             margin-top: 22px;
         }
-    </style>
+    </style> */
+    body {
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            border: 2px solid #888;
+            padding: 24px;
+            max-width: 700px;
+            margin: 40px auto;
+            background: #f7f1ed;
+        }
+        .title {
+            font-size: 1.5em;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+        .image-float {
+            float: left;
+            width: 180px;
+            margin-right: 18px;
+            margin-bottom: 8px;
+            border-radius: 6px;
+        }
+        .content {
+            font-size: 1.1em;
+            color: #5b4c44;
+        }
+        .footer {
+            clear: both;
+            padding-top: 14px;
+            color: #5b4c44;
+            font-size: 1.08em;
+        }
