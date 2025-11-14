@@ -51,12 +51,12 @@
     margin: 2px;
     height: 150px;
     width: 600px;} */
-    /* h1{
+     /* h1{
         color: blue;
     }
     p{
-        background-color: aquamarine;
-    /* } div{
+        background-color: aquamarine; } */
+    /* div{
     padding: 20PX;
     border: 3px solid black;
     background-color: pink;
@@ -65,10 +65,10 @@
     width: 1000px;}
     h5{
         background-color: aquamarine;
-    } */
+    }  */
 
     
-        /* .container {
+        .container {
             border: 2px solid #888;
             padding: 24px;
             max-width: 800px;
@@ -80,7 +80,7 @@
             font-weight: bold;
             margin-bottom: 20px;
         }
-        .card {
+         .card {
             display: inline-block;
             width: 180px;
             height: 260px;
@@ -90,7 +90,7 @@
             box-shadow: 0 2px 8px rgba(0,0,0,0.07);
             text-align: center;
             font-size: 1.2em;
-            padding-top: 60px;
+            padding-top: 60px; 
         }
         .card.book {
             background: #fce34b;
@@ -109,8 +109,8 @@
             font-size: 1.1em;
             margin-top: 22px;
         }
-    </style> */
-    body {
+    </style> 
+    /* body {
             font-family: Arial, sans-serif;
         }
         .container {
@@ -142,3 +142,4 @@
             color: #5b4c44;
             font-size: 1.08em;
         }
+         */ 
